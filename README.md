@@ -31,8 +31,8 @@ NxtWatch is a dynamic video streaming platform modeled after YouTube, allowing u
 
 Clone the Repository
 and run the following commands: 
-     i. npm install
-     ii. npm start
+     npm install
+     npm start
 
 ```bash
 git clone https://github.com/your-username/nxtwatch.git
